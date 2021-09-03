@@ -1,0 +1,20 @@
+{
+    "DeviceId" : "12345",
+    "Location" :
+    {
+        "Lat": 47,
+        "Long": 122
+    },
+    "SensorReadings" :
+    {
+        "Temperature" : 80,
+        "Humidity" : 70,
+        "CustomSensor01" : 5,
+        "CustomSensor02" : 99,
+        "SensorMetadata" : 
+        {
+        "Manufacturer":"ABC",
+        "Version":"1.2.45"
+        }
+    }
+}
